@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Limboos
+- 👋 Hi, I’m Patryk
 - 👀 I’m interested in GIS, data structures and ML/DL
 - 🌱 I’m currently learning DL and data science. 
 - 📫 How to reach me balakpatryk@gmail.com
